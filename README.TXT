@@ -27,7 +27,8 @@ The application demonstrates use of arrays, file input, exception handling, recu
 
 ## How to Run
 ```bash
-cd 
+git clone https://github.com/JWesP23/Vietnam-War-Draft.git
+cd Vietnam-War-Draft
 javac *.java
 java VietnamDraftLottery
 ```
