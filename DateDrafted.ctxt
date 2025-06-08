@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DateDrafted
+comment0.text=\r\n\ DateDrafted.java\ -\ Represents\ a\ birthdate\ that\ would've\ been\ drafted.\r\n\ <p>Problem\ Statement\:\ A\ class\ that\ stores\ the\ draft\ number\ of\ a\ date\ which\ was\ drafted.</p>\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ Instance\ Variables\:<ul>\r\n\ \ <li>\ int\ <code><b>draftNumber</b></code>\ -\ The\ draft\ number\ that\ was\ assigned\ to\ this\ date\ </li></ul>\r\n\ \r\n\ @author\ Wes\ Parker\r\n\ @version\ Module\ 16,\ Final\ Project\r\n
+comment1.params=
+comment1.target=DateDrafted()
+comment1.text=\r\n\ No\ argument\ constructor\ sets\ all\ values\ to\ 0\r\n
+comment2.params=month\ day\ draftNumber
+comment2.target=DateDrafted(java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ full\ constructor\ sets\ each\ instance\ variable\ to\ an\ argument\r\n\ @param\ month\ The\ month\ to\ be\ assigned\ to\ the\ Object\r\n\ @param\ day\ The\ day\ to\ be\ assigned\ to\ the\ Object\r\n\ @param\ draftNumber\ The\ draft\ number\ to\ be\ assigned\ to\ the\ Object\r\n
+comment3.params=
+comment3.target=int\ getDraftNumber()
+comment3.text=\r\n\ Getter\ for\ draft\ number\r\n\ @return\ The\ value\ of\ the\ draftNumber\ variable\ for\ this\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ a\ DateDrafted\ object\ as\ a\ String\r\n\ @return\ a\ String\ which\ tells\ the\ date\ and\ that\ the\ user\ would\ be\ drafted\r\n
+numComments=5

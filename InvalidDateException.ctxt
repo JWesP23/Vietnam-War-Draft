@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InvalidDateException
+comment0.text=\r\n\ InvalidDateException.java\ -\ An\ Exception\ class\ for\ a\ DateDrafted\ or\ DateNotDrafted\ object.\r\n\ <p>Problem\ Statement\:\ An\ exception\ to\ be\ thrown\ when\ attempting\ to\ input\ a\ date\ with\ a\ format\ other\ than\ MM/DD.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @author\ Wes\ Parker\r\n\ @version\ Module\ 16,\ Final\ Project\r\n
+comment1.params=
+comment1.target=InvalidDateException()
+comment1.text=\r\n\ No-arg\ Constructor\ sets\ message\ to\ "Incorrect\ coin\ value\ entered."\r\n
+comment2.params=message
+comment2.target=InvalidDateException(java.lang.String)
+comment2.text=\r\n\ String\ Constructor\ sets\ message\ to\ the\ String\ passed\r\n\ @param\ message\ a\ String\ to\ be\ stored\ as\ the\ message\ for\ the\ exception\r\n
+numComments=3
